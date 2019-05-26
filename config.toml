@@ -1,0 +1,37 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+title = "Hi, my name is Daulet Urazalinov"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  version = "1.0.0"
+
+  # Metadata mostly used in document's head
+  description = "Homepage of Daulet Urazalinov (aka Baidaly)"
+  keywords = "homepage, daulet, urazalinov, baidaly, science, informatics, development, programming, web, vue, nodejs, react, asp.net"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  homeSubtitle = "I am software engineer from Toronto, Canada"
+
+[[params.social]]
+  name = "github"
+  site = "HitHub"
+  url = "https://github.com/Baidaly"
+
+[[params.social]]
+  name = "twitter"
+  site = "Twitter"
+  url = "https://twitter.com/baidaly"
+
+[[params.social]]
+  name = "linkedin"
+  site = "LinkedIn"
+  url = "https://www.linkedin.com/in/daulet-urazalinov-66380738"
