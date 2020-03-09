@@ -2,6 +2,13 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 title = "Hi, my name is Daulet Urazalinov"
+copyright = "v.1.1.0"
+
+[language]
+   disableKinds = "RSS"
+
+[author]
+  name = "Daulet Urazalinov"
 
 [params]
   dateform        = "Jan 2, 2006"
